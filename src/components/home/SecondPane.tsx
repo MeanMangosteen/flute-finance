@@ -113,10 +113,10 @@ const SecondPaneContent = styled.div`
   }
 `;
 
-
-export const LandingPageContainer = styled.div``;
 const Pane = styled.div`
   height: 95vh;
   width: 100%;
-  background: '#E5E5E5'
+  background: #ffffff
 `;
+
+export const LandingPageContainer = styled.div``;

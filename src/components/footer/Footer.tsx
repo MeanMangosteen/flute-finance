@@ -15,11 +15,11 @@ const FooterText = styled.div`
 `;
 
 const FooterContainer = styled.div`
-height: 85px;
+height: 50px;
 
 display: flex;
 justify-content: center;
 align-items: center;
 
-background: white;
+background: #72593d52;
 `;
